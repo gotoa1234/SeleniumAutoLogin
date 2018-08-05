@@ -1,0 +1,13 @@
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\bin\Debug\SeleniumAutoLogin.exe.config
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\bin\Debug\SeleniumAutoLogin.exe
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\bin\Debug\SeleniumAutoLogin.pdb
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\bin\Debug\WebDriver.dll
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\bin\Debug\WebDriver.xml
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.csprojAssemblyReference.cache
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.Form1.resources
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.Properties.Resources.resources
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.csproj.GenerateResource.cache
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.csproj.CopyComplete
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.exe
+C:\Users\cap88\Desktop\SeleniumAutoLogin\SeleniumAutoLogin\obj\Debug\SeleniumAutoLogin.pdb
